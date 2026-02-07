@@ -21,3 +21,13 @@ security/
 ├── config/       # Secure configuration templates
 └── tests/        # Validation and smoke tests
 ```
+
+
+## Usage
+
+```bash
+chmod +x *.sh // Make Script Executable
+./harden_ssh.sh // Test by running a script
+sudo ./setup_ufw.sh // Some script requires sudo privilege
+```
+
