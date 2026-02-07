@@ -27,7 +27,7 @@ security/
 
 ```bash
 chmod +x *.sh // Make Script Executable
-./harden_ssh.sh // Test by running a script
+./os_audit.sh // Test by running a script
 sudo ./setup_ufw.sh // Some script requires sudo privilege
 ```
 
