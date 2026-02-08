@@ -55,5 +55,5 @@ Configure a secure UFW (Uncomplicated Firewall) ruleset.
 
 ## License
 
-MIT (or align with parent repository)
+MIT (Aligns with parent repository)
 
