@@ -38,7 +38,7 @@ Make scripts executable:
 
     chmod +x *.sh
 
-Run a script:
+Example >  Run a script:
 
     ./cpu_monitor.sh
 
