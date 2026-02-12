@@ -45,5 +45,5 @@ Example >  Run a script:
 ## Notes
 
 Review any system tuning parameters before applying them in production environments.
-These scripts are intended for learning and basic administration purposes.
+These scripts are intended for  basic administration purposes.
 
